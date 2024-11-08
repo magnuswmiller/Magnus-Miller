@@ -5,19 +5,13 @@ I am currently pursuing my B.S in Applied Mathematics with a concentration in Fi
 major, I am also pursuing a Certificate in Quantitative Finance.
 
 ### Relevant Course Work:
-* Optimizations in Finance (Mathematical Finance)
-* Differential Equations
-* Mathematical Statistics
-* Applied Probability Theory
-* Matrix Methods (Applied Linear Algebra)
-* Statistical Methods I & II
-* Linear Algebra
-* Calculus I, II, and III
-* Applied Econometrics
-* Microeconomic Theory
-* Macroeconomic Theory
-* Data Structures and Algorithms
-* Introduction to Computer Systems
+| Mathematics     | Statistics     | Computer Science  | Economics  |
+| ------------- | ------------- | ------------- | ------------- |
+|  Optimizations in Finance (Mathematical Finance)| Markov Processes, Queues, and Monte Carlo Simulations | Data Structures and Algorithms | Applied Econometrics |
+| Differential Equations |  Mathematical Statistics| Introduction to Computer Systems | Microeconomic Theory |
+| Matrix Methods (Applied Linear Algebra) | Applied Probability Theory | Intro to Data Science | Macroeconomic Theory |
+| Linear Algebra | Statistical Methods I & II | Principles of Computer Science | Principles of Economics |
+| Calculus I, II, and III |  |  |  |
 
 ### Work Experience:
 My work experience spans diverse roles in customer service, operations management, and technical support. As Lead Bartender at Lucky Strike, I drove revenue growth, optimized customer service, and trained new hires, enhancing team efficiency and guest satisfaction. In my role as a Teaching Assistant for Calculus I & II, I supported student learning through targeted tutoring and feedback, helping to improve performance and comprehension. As Kitchen Director, I managed a 36-person team, implemented an efficient ticketing system to streamline operations, and played a key role in customer service and menu planning, reducing average wait times significantly. Additionally, in my role at the IT Service Desk, I led a team of associates, streamlined ticketing processes, managed helplines, and worked with networking and system maintenance, enhancing daily operational efficiency.
